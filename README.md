@@ -1,25 +1,25 @@
-# Getting Started
+# About project
 
-Welcome to your new project.
+This project is designed for incident management and built on SAP Cloud Application Programming (CAP) model. It provides a robust framework for developing enterprise-grade applications using Node.js and SAP HANA Cloud.
 
-It contains these folders and files, following our recommended project layout:
+## Project Structure
 
-File or Folder | Purpose
----------|----------
-`app/` | content for UI frontends goes here
-`db/` | your domain models and data go here
-`srv/` | your service models and code go here
-`package.json` | project metadata and configuration
-`readme.md` | this getting started guide
+This project contains the following folders and files, following our recommended project layout:
 
+| File or Folder | Purpose |
+|-----------------|---------|
+| `app/`          | Content for UI frontends goes here |
+| `db/`           | Your domain models and data go here |
+| `srv/`          | Your service models and code go here |
+| `package.json`  | Project metadata and configuration |
+| `readme.md`     | This getting started guide |
 
 ## Next Steps
 
 - Open a new terminal and run `cds watch`
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
+- (In VS Code, simply choose **Terminal > Run Task > cds watch**)
 - Start adding content, for example, a [db/schema.cds](db/schema.cds).
-
 
 ## Learn More
 
-Learn more at https://cap.cloud.sap/docs/get-started/.
+Learn more at [SAP CAP Documentation](https://cap.cloud.sap/docs/get-started/).
